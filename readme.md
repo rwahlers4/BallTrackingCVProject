@@ -5,7 +5,7 @@ All files were in a shared google drive and primarily worked on using Colab. The
 
 Contributions
 
-Video_Classification_Final.ipynb : Zach
-get_clips.ipynb : Ryan
-models.py : Ryan and Zach
-track_pitches.ipynb : Ryan
+Video_Classification_Final.ipynb : Zach <br>
+get_clips.ipynb : Ryan <br>
+models.py : Ryan and Zach <br>
+track_pitches.ipynb : Ryan <br>
